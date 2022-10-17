@@ -1,0 +1,32 @@
+div{
+    text-align: center;
+
+}
+body{
+    background-image: url("./co-fee/login\ bg.jpg");
+    background-size: cover;
+}
+.box{
+    height: 300px;
+    width: 22%;
+    border: 1px solid rgb(183, 180, 180);
+    background-color: rgba(183, 180, 180,0.5);
+    margin-left: 582px;
+    margin-top: 130px;
+}
+button{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: rgb(32, 156, 218);
+    color: white;
+    border: rgb(32, 156, 218) 2px solid;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    border: rgb(32, 156, 218) 2px solid;
+}
+pre{
+    cursor: pointer;
+}
